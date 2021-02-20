@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+input{
+    display: block;
+}
+
+div#corpo-form{
+    background-color: #E0FFFF	;
+    width: 480px;
+    margin: 100px auto 0px auto;
+
+
+}
