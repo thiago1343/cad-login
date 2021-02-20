@@ -5,10 +5,17 @@
 
 input{
     display: block;
+    height: 55px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    font-size: 16pt;
+    padding: 10px 20px;
 }
 
 div#corpo-form{
-    background-color: #E0FFFF	;
+   /* background-color: #E0FFFF	; */
     width: 480px;
     margin: 100px auto 0px auto;
 
