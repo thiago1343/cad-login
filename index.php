@@ -7,11 +7,11 @@
 <body>
 <div id="corpo-form">
    <h1> ENTRAR </h1>
-   <form method="POST" action="processa.php">
+   <form method="POST">
       <input type="email" placeholder="usuário">
       <input type="password" placeholder="senha">
       <input type="submit" value="acessar">
-      <a href=""> Ainda não é inscrito? <strong>Cadastre-se!</strong> </a>
+      <a href="cadastrar.php"> Ainda não é inscrito? <strong>Cadastre-se!</strong> </a>
    </form>
 </div>
 
