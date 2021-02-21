@@ -24,7 +24,7 @@ input{
 
 div#corpo-form{
    /* background-color: #E0FFFF	; */
-    width: 480px;
+    width: 400px;
     margin: 100px auto 0px auto;
 
 
@@ -37,8 +37,10 @@ div#corpo-form h1{
 }
 
 a{
-    color: white;
+    color:white;
     text-decoration: none;
+    text-align: center;
+    display: block;
 }
 a:hover{
     text-decoration: underline;
