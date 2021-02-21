@@ -3,6 +3,14 @@
     padding: 0px;
 }
 
+body{
+
+    background-image: url("../IMAGENS/fundoazul.jpg"); 
+    background-position: 50% 70%;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
 input{
     display: block;
     height: 55px;
@@ -20,4 +28,18 @@ div#corpo-form{
     margin: 100px auto 0px auto;
 
 
+}
+
+div#corpo-form h1{
+    text-align: center;
+    padding: 20px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }
