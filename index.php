@@ -8,8 +8,8 @@
 <div id="corpo-form">
    <h1> ENTRAR </h1>
    <form method="POST">
-      <input type="email" placeholder="usuário">
-      <input type="password" placeholder="senha">
+      <input type="email" placeholder="usuário" name="email">
+      <input type="password" placeholder="senha" name="senha">
       <input type="submit" value="acessar">
       <a href="cadastrar.php"> Ainda não é inscrito? <strong>Cadastre-se!</strong> </a>
    </form>

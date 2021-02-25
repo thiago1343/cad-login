@@ -7,12 +7,12 @@
 <body>
 <div id="corpo-form">
    <h1> CADASTRAR </h1>
-   <form method="POST" action="processa.php">
-      <input type="text" placeholder="Nome Completo">
-      <input type="text" placeholder="Telefone">
-      <input type="email" placeholder="E-mail">
-      <input type="password" placeholder="senha">
-      <input type="password" placeholder="Confirmar Senha">
+   <form method="POST">
+      <input type="text" name="nome" placeholder="Nome Completo" maxlength="30">
+      <input type="text" name="telefone" placeholder="Telefone"maxlength="30">
+      <input type="email" name="email" placeholder="usuário"maxlength="40">
+      <input type="password" name="senha" placeholder="senha"maxlength="15">
+      <input type="password" name="confSenha" placeholder="Confirmar Senha" maxlength="15">
       <input type="submit" value="Cadastrar">
       
    </form>
