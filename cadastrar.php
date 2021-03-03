@@ -6,6 +6,7 @@
    <link rel="stylesheet" href="CSS/estilo.css">
 </head>
 <body>
+<!-- Div do formulário de Cadastro --> 
 <div id="corpo-form">
    <h1> CADASTRAR </h1>
    <form method="POST">
